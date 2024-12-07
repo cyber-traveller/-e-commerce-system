@@ -57,4 +57,4 @@ This project is open-source and free to use. Feel free to modify and distribute 
 
 ---
 
-For any questions or improvements, please contact the developer or contribute to this repository.
+
